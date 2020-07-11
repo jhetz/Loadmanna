@@ -1,2 +1,0 @@
-# Loadmanna
-loadmanna store
